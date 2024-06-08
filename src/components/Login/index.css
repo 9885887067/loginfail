@@ -1,0 +1,17 @@
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  height:100vh;
+}
+.form-container {
+  background-color: #202020;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 450px;
+  
+}
